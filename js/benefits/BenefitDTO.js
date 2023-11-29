@@ -1,0 +1,1 @@
+"use strict";class BenefitDTO{constructor(i,s,t,e){this.id=i,this.name=s,this.description=t,this.image=e}}
